@@ -1,0 +1,25 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-s-rathore/Task.git"
+  },
+  "author": "Abhishek Singh Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-s-rathore/Task/issues"
+  },
+  "homepage": "https://github.com/abhishek-s-rathore/Task#readme",
+  "dependencies": {
+    "csv-parse": "^5.0.3",
+    "csv-parser": "^3.0.0",
+    "moment": "^2.29.1"
+  }
+}
